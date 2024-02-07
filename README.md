@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**enochtamulonis/enochtamulonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Get To Know Me 
 
 - 🔭 Building High Powered Apps with Ruby on Rails, Hotwire, TailwindCSS, and Turbo Native
 - 🌱 Expert in building web and mobile apps that scale and are built to grow.
